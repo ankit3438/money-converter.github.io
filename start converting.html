@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MONEY CONVERTER</title>
+<link rel="icon" href="download.png" />
+<link rel="stylesheet" type="text/css" href="converter.css"/>
+<link rel="stylesheet" type="text/css" href="start converting.css"/>
+</head>
+<body>
+<div id="d1">
+   <img id="i1" src="logo1.jpg" />
+   <text id="t1">|<text id="money">MONEY</text> CONVERTER</text>
+   <table id="tab1" align="right" cellpadding="22" >
+     <tr>
+	  <td><a CLASS="a1" href="ABOUT.html">ABOUT</a></td>
+	  <td><a CLASS="a1" href="world map.html">WORLD-MAP</a></td>
+	 </tr>
+   </table>
+ </div>
+<p id="heading"><text id="welcome">Welcome</text></br><text id="welcome2">To our money converting site here you can only convert
+<text class="india"> INDIAN</text> currency into<text class="india"> any country currency</text> hope you love our website for the converting purpose</text> </p><hr/><br/><br/>
+<table id="table1" align="center" cellspacing="10" cellpadding="10">
+ <tr>
+    <td class="head">Choose the currency in which you want to convert</td>
+	<td><select id="country">
+	      <option></option>
+	      <option value="76.23">US</option>
+		  <option value="00.46">PAKISTAN</option>
+		  <option value="00.90">BANGLADESH</option>
+		  <option value="00.62">NEPAL</option>
+		  <option value="00.41">SRI-LANKA</option>
+		  <option value="10.77">CHINA</option>
+		  <option value="00.90">AFGANISTAN</option>
+		  <option value="0.055">BURMAKAYAT</option>
+		  <option value="2.46">THAILAND</option>
+		  <option value="1.00">BHUTAN</option>
+		  <option value="0.0033">VEITNAM</option>
+		  <option value="17.83">MALASYA</option>
+	    </select></td>
+ </tr>
+ <tr>
+    <td class="head">Enter the amount you want to convert</td> 
+	<td><input id="num" type="number"/>
+	</td>
+ </tr>
+ <tr>
+          <td ></td>
+		  <td align="center"><button onclick="f1()">convert</button></td>
+     </tr>
+</table><br/>
+<div id="display" align="center">
+</div>
+<script type="text/javascript" >
+ function f1()
+ {
+ var x=document.getElementById("country").value;
+ var y=document.getElementById("num").value;
+ var z=(x*y);
+ document.getElementById("display").innerHTML="Total Money<br>₹"+z;
+  }
+ 
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

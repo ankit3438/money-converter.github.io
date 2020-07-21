@@ -1,0 +1,44 @@
+#heading
+{
+	font-size:30px;
+	text-align:justify;
+}
+#welcome
+{
+	color:blue;
+	font-family:Goudy Stout;
+	text-decoration:underline;
+	margin-left:40%;
+}
+#welcome2
+{
+	color:green;
+	font-family:cooper;
+}
+.india
+{
+	color:red;
+}
+#table1
+{
+	
+}
+.head
+{
+	font-size:20px;
+	font-family:cooper;
+}
+#display
+{
+	font-size:20px;
+	font-family:cooper;
+	border-style:dotted;
+	width:50%;
+	hight:50px;
+	float:middle;
+	margin-left:400px;
+}
+body
+{
+	background-color:pink;
+}

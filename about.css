@@ -1,0 +1,39 @@
+body
+{
+	background-color:white;
+	margin:0px;
+}
+#d1
+{
+	background-color:black;
+	margin:0px;
+	padding:0px;
+}
+#i1
+{
+	hight:50px;
+	width:50px;
+}
+#t1
+{
+	color:red;
+	font-size:30px;
+	font-family:Goudy Stout;
+	
+}
+#tab1
+{
+	font-size:22px;
+	text-decoration:none;
+	
+}
+#money
+{
+	color:green;
+}
+.a1
+{
+	text-decoration:none;
+	color:red;
+	font-family:Cooper;
+}

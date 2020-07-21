@@ -1,0 +1,146 @@
+body
+{
+	background-color:white;
+	margin:0px;
+}
+#d1
+{
+	background-color:black;
+	margin:0px;
+	padding:0px;
+}
+#i1
+{
+	hight:50px;
+	width:50px;
+}
+#t1
+{
+	color:red;
+	font-size:30px;
+	font-family:Goudy Stout;
+	
+}
+#tab1
+{
+	font-size:22px;
+	text-decoration:none;
+	
+}
+.a1
+{
+	text-decoration:none;
+	color:red;
+	font-family:Cooper;
+}
+#p1
+{
+	font-family:Consolas;
+	text-align:justify;
+	font-size:22px;
+	border:solid;
+	border-radius:8px;
+	border-color:#c7ff08;
+	color:black;
+}
+.s1
+{
+	font-weight:bold;
+	text-decoration:underline;
+}
+#start
+{
+	font-family:Goudy Stout;
+	color:black;
+	font-size:22px;
+	text-decoration:underline;
+}
+#click
+{
+	text-decoration:none;
+	font-size:40px;
+	margin:550px;
+	content:440px;
+	border:solid;
+}
+#money
+{
+	color:green;
+}
+.main_footer
+{
+	background-color:black;
+	hight:300px;
+	width:100%;
+	position:absolute;
+	top:70%;
+	left:0;
+	right:0;
+	bottom:0;
+}
+.first_section
+{
+	color:white;
+	width:33.33%;
+	hight:100%;
+	text-align:justify;
+	float:left;
+	/*background-color:blue;*/
+	font-size:20px;
+}
+.second_section
+{
+	width:33.33%;
+	float:left;
+	letter-spacing:4px;
+	/*background-color:yellow;*/
+}
+.third_section
+{
+	width:33.33%;
+	float:left;
+	letter-spacing:4px;
+	/*background-color:red;*/
+}
+.f1
+{
+	margin:170px;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.f2
+{
+	margin:70px;
+	text-decoration:underline;
+	font-family:Goudy Stout;
+	font-size:15px;
+}
+#f3
+{
+	text-align:justify;
+	font-family:Harrington;
+}
+#h2
+{
+	text-align:center;
+	margin:0px;
+	color:white;
+}
+#list
+{
+	margin:20px;
+	color:white;
+}
+.anc
+{
+	color:white;
+	text-decoration:none;
+	font-size:22px;
+}
+#contacts
+{
+	font-size:24px;
+	margin:0px;
+	text-align:center;
+	
+}
